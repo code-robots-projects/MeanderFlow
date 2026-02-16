@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Vite
+.vite/
+
+# Logs
+logs/
+npm-debug.log* 
+yarn-debug.log* 
+yarn-error.log*
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+*.sublime-workspace
+*.sublime-project
